@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace CET2007_Week2
 {
-    //Update comment
 
     // ========== Inheritance ==========
     class Person
