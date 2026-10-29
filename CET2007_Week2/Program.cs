@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace CET2007_Week2
 {
+    //Update comment
 
     // ========== Inheritance ==========
     class Person
@@ -173,7 +174,7 @@ namespace CET2007_Week2
             {
                 courses[i].DisplayInfo();
             }
-        }
+        } 
     }
 
     // ========== "System" (Sequence Diagram idea) ==========
